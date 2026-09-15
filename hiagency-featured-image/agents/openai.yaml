@@ -1,0 +1,4 @@
+interface:
+  display_name: "HiAgency Featured Image"
+  short_description: "Tạo featured image HiAgency từ nội dung bài viết"
+  default_prompt: "Dùng $hiagency-featured-image tạo thumbnail featured image HiAgency từ nội dung bài viết bên dưới."
